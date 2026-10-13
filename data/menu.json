@@ -1,0 +1,42 @@
+{
+  "business_name": "Desyana Kitchen",
+  "currency": "IDR",
+  "notice": "DATA CONTOH. Pemilik harus memverifikasi dan mengganti menu serta harga sebelum bot digunakan pelanggan.",
+  "items": [
+    {
+      "name": "Klepon",
+      "price": 2500,
+      "unit": "buah",
+      "availability": "perlu konfirmasi admin",
+      "description": "Jajanan tradisional berisi gula merah."
+    },
+    {
+      "name": "Lemper Ayam",
+      "price": 4000,
+      "unit": "buah",
+      "availability": "perlu konfirmasi admin",
+      "description": "Ketan dengan isian ayam."
+    },
+    {
+      "name": "Pastel",
+      "price": 3500,
+      "unit": "buah",
+      "availability": "perlu konfirmasi admin",
+      "description": "Gorengan dengan isian gurih."
+    },
+    {
+      "name": "Risoles",
+      "price": 3500,
+      "unit": "buah",
+      "availability": "perlu konfirmasi admin",
+      "description": "Camilan berkulit lembut dengan isian gurih."
+    },
+    {
+      "name": "Dadar Gulung",
+      "price": 3000,
+      "unit": "buah",
+      "availability": "perlu konfirmasi admin",
+      "description": "Kue tradisional dengan isian kelapa."
+    }
+  ]
+}
