@@ -1,0 +1,31 @@
+{
+  "business_name": "Desyana Kitchen",
+  "whatsapp_number": "6285607438523",
+  "whatsapp_link": "https://wa.me/6285607438523",
+  "faq": [
+    {
+      "question": "Jam operasional",
+      "answer": "Jam operasional belum dicantumkan. Silakan konfirmasi kepada admin."
+    },
+    {
+      "question": "Cara memesan",
+      "answer": "Sampaikan menu dan jumlah yang diinginkan kepada admin. Pesanan belum dianggap terkonfirmasi sampai admin membalas."
+    },
+    {
+      "question": "Pembayaran",
+      "answer": "Metode pembayaran perlu dikonfirmasi langsung kepada admin."
+    },
+    {
+      "question": "Pengiriman dan ongkir",
+      "answer": "Area pengiriman, ketersediaan kurir, dan ongkos kirim perlu dikonfirmasi kepada admin."
+    },
+    {
+      "question": "Ketersediaan menu",
+      "answer": "Daftar menu dan harga adalah data contoh; stok aktual perlu dikonfirmasi kepada admin."
+    },
+    {
+      "question": "Promo",
+      "answer": "Belum ada informasi promo terverifikasi. Silakan tanyakan kepada admin."
+    }
+  ]
+}
