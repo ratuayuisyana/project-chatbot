@@ -1,0 +1,31 @@
+{
+  "business_name": "Desyana Kitchen",
+  "whatsapp_number": "6285607438523",
+  "whatsapp_link": "https://wa.me/6285607438523",
+  "faq": [
+    {
+      "question": "Jam operasional",
+      "answer": "Desyana Kitchen buka setiap hari pukul 08.00–20.00 WIB."
+    },
+    {
+      "question": "Cara memesan",
+      "answer": "Pemesanan dapat dilakukan melalui WhatsApp dengan menyebutkan nama produk dan jumlah pesanan."
+    },
+    {
+      "question": "Pembayaran",
+      "answer": "Pembayaran dapat dilakukan secara tunai atau QRIS."
+    },
+    {
+      "question": "Pengiriman dan ongkir",
+      "answer": "Pengiriman tersedia untuk area tertentu. Biaya ongkir menyesuaikan jarak lokasi pelanggan."
+    },
+    {
+      "question": "Ketersediaan menu",
+      "answer": "Kami menyediakan berbagai pilihan kue dan camilan, seperti donat kentang, kue lumpur, pastel sayur, dan lemper ayam. Silakan hubungi admin untuk mengecek stok."
+    },
+    {
+      "question": "Promo",
+      "answer": "Informasi promo dan diskon terbaru dapat ditanyakan langsung melalui WhatsApp Desyana Kitchen."
+    }
+  ]
+}
