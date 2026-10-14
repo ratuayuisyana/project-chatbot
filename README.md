@@ -62,31 +62,25 @@ Edit:
 **Data di repository ini adalah contoh, bukan informasi resmi.** Ganti nomor WhatsApp `6281234567890`, harga, stok, jam operasional, pembayaran, dan pengiriman dengan data yang sudah diverifikasi sebelum dipakai pelanggan. Jangan biarkan bot mengklaim pesanan telah dikonfirmasi.
 
 ## 6. Unggah ke GitHub
-Buat repository baru di GitHub, misalnya `desyana-kitchen-telegram-ai`. Jangan centang opsi untuk membuat README jika kamu sudah memiliki README lokal, atau sesuaikan langkah berikut.
+Repository GitHub proyek ini tersedia di:
+https://github.com/ratuayuysiana/project-chatbot
 
-Di terminal, dari folder proyek:
+Untuk mengunggah perubahan terbaru, buka terminal di folder proyek dan jalankan:
 
-```bash
-git init
-git add .
 git status
-```
+git add README.md
+git commit -m "docs: update README project documentation"
+git push origin main
 
-Pastikan `.env` TIDAK tercantum pada daftar file yang akan di-commit. Jika sudah aman:
+Periksa perubahan menggunakan git status sebelum melakukan commit. Pastikan file .env dan informasi rahasia lainnya tidak ikut diunggah ke GitHub.
 
-```bash
-git commit -m "Initial commit: Desyana Kitchen Telegram AI bot"
-git branch -M main
-git remote add origin https://github.com/USERNAME/desyana-kitchen-telegram-ai.git
-git push -u origin main
-```
+Jika perubahan mencakup file lain selain README, tambahkan hanya file yang memang ingin di-commit.
 
-Ganti `USERNAME` dengan username GitHub milikmu. GitHub mungkin meminta autentikasi melalui browser atau Git Credential Manager; jangan memasukkan token rahasia ke file proyek.
-
+Jangan menjalankan git init atau git remote add origin lagi jika repository lokal sudah terhubung ke GitHub.
 ## Struktur proyek
 
 ```text
-desyana-kitchen-telegram-ai/
+project-chtbot/
 ├── bot.py
 ├── requirements.txt
 ├── .env.example
